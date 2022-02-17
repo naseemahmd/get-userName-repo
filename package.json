@@ -1,0 +1,25 @@
+{
+  "name": "get-username",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/naseemahmd/get-userName-repo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naseemahmd/get-userName-rep.git"
+  },
+  "keywords": [
+    "username",
+    "Random",
+    "Random Username"
+  ],
+  "author": "Naseem Ahamed <naseemahamedinfo@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
